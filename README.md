@@ -94,7 +94,6 @@ The dashboard provides clear insights into:
 ## 📥 **Download the Project**
 
 👉 **[Click here to download the PBIX file](Project1%20BI.pbix)**  
-(Adjust this link if your file name/path is different.)
 
 ---
 
@@ -107,6 +106,17 @@ This dashboard was created to showcase data analysis capabilities using:
 - End-to-end BI visualization workflow  
 
 The project demonstrates skills relevant for **Business Intelligence**, **Data Analytics**, and **Sales Performance Reporting**.
+
+---
+
+---
+
+## 👨‍💻 **Author**
+
+**Omar Khaled**  
+Data Analyst — Excel | SQL | Power BI  
+📍 Cairo, Egypt  
+🔗 LinkedIn: www.linkedin.com/in/omar-khaled-b37465167
 
 ---
 
